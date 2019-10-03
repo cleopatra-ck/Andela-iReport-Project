@@ -1,0 +1,22 @@
+{
+  "name": "andela-ireport-project",
+  "version": "1.0.0",
+  "description": "ireporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleopatra-ck/Andela-iReport-Project.git"
+  },
+  "author": "Cleopatra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleopatra-ck/Andela-iReport-Project/issues"
+  },
+  "homepage": "https://github.com/cleopatra-ck/Andela-iReport-Project#readme",
+  "dependencies": {
+    "node": "^12.11.0"
+  }
+}
